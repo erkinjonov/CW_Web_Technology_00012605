@@ -24,3 +24,9 @@ Euphoria Woods
 "In PROCESS page you can be more familiar with his/her projects and know more deeply about them."
 
 "In CONTACT page you can see our freelancer's contacts and send the message verifying yourself by entering your name, e-mail and your order in the form.
+
+#Links
+
+GitHub:  https://github.com/wiut12605/CW_Web_Technology_00012605
+GLitch hosted link: https://helix-axiomatic-animantarx.glitch.me
+
